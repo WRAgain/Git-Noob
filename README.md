@@ -1,2 +1,2 @@
 # Git-Noob
-wtf is a git
+Git EZ
