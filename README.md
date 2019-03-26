@@ -1,5 +1,3 @@
-# Git-Noob
+# Git-Test
 
-This is another git change
-
-ADde a change
+Testing git from this machine
